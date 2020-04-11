@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookmarks", "Bookmarks\Bookmarks.csproj", "{99D6E819-EE1A-479B-A1B7-3D46D1AE6EDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2F9ABBAD-72A2-4E91-A438-C94DD6EF67F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{99D6E819-EE1A-479B-A1B7-3D46D1AE6EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99D6E819-EE1A-479B-A1B7-3D46D1AE6EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99D6E819-EE1A-479B-A1B7-3D46D1AE6EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9ABBAD-72A2-4E91-A438-C94DD6EF67F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9ABBAD-72A2-4E91-A438-C94DD6EF67F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9ABBAD-72A2-4E91-A438-C94DD6EF67F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9ABBAD-72A2-4E91-A438-C94DD6EF67F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
